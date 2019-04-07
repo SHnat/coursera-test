@@ -49,14 +49,16 @@ body {
   margin-top: 10px;
   border: 1px solid black;
   margin-bottom: 0;
+  color: black;
 }
 
 #nav-list li {
   border: 1px solid black;
+  color: black;
 }
  
 #nav-list a {
-  color: #951C49;
+  color: black;
   text-align: center;  
 }
 #nav-list a:hover {
